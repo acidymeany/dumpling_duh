@@ -34,7 +34,6 @@ int main()
     cout << endl;
 
     //рассчётная часть
-       //пельмени
     Q_p = W / (2 * t);
     n_p = Q_p / q_p;
      Q_f = a_f * Q_p;
